@@ -1,0 +1,108 @@
+﻿@page "/"
+@using System.Text.RegularExpressions
+
+<h1>@(heading.Length == 0 ? "Pay Invoice" : heading)</h1>
+
+<form style="max-width:400px;" class="@(heading.Length == 0 ? "" : "d-none")" onsubmit="return false;">
+	<div class="mb-3">
+		<input type="text" class="form-control" style="color:@(ValidateCreditCardNumber() ? "#0a0" : (cardNumber.Length == 0 ? "#000" : "red"));"
+			   placeholder="Credit card number" @bind-value="cardNumber" @onblur="Blur" />
+	</div>
+	<div class="mb-3">
+		<input type="text" class="form-control" placeholder="Security code" @bind-value="securityCode" />
+	</div>
+	<button type="submit" class="btn btn-primary" @onclick="Submit">Submit</button>&nbsp;&nbsp;<img src="@cc[ccid]" />
+</form>
+
+<div class="modal-backdrop fade @(show ? "show" : "") @(display ? "" : "d-none")"></div>
+<div class="modal fade @(show ? "show" : "")  @(display ? "d-block" : "d-none")" tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title"><img src="@cc[ccid]" /></h5>
+				<button type="button" class="btn-close" @onclick="Close">&times;</button>
+			</div>
+			<div class="modal-body">
+				<p>@modalBodyText</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary @(modalButtonText.Length == 0 ? "d-none" : "")" @onclick="Confirm">@modalButtonText</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+@code {
+	string heading = "";
+	string cardNumber = "", securityCode = "";
+	int ccid = 0;
+	string[] cc = { "/img/blank.png", "/img/blank.png", "/img/blank.png", "/img/amex.png", "/img/visa.png", "/img/mastercard.png", "/img/discover.png", "/img/blank.png", "/img/blank.png", "/img/blank.png" };
+	bool show, display;
+	string modalButtonText = "", modalBodyText = "";
+
+	bool ValidateCreditCardNumber() // The Luhn Check
+	{
+		var ccnum = cardNumber.Replace(" ", "");
+		if (string.IsNullOrWhiteSpace(ccnum) || ccnum.Length < 15 || ccnum.Length > 16)
+			return false;
+		var rev = ccnum.Reverse(); // Luhn check approaches the card number in reversed order
+		int sum = 0, i = 0;
+		foreach (char c in rev)
+		{
+			if (c < '0' || c > '9')
+				return false;
+			int tmp = c - '0';
+			if ((i & 1) != 0)
+			{
+				tmp <<= 1;
+				if (tmp > 9)
+					tmp -= 9;
+			}
+			sum += tmp;
+			i++;
+		}
+		return ((sum % 10) == 0);
+	}
+
+	async Task Submit()
+	{
+		if (cardNumber.Length == 0 || securityCode.Length == 0)
+		{
+			modalButtonText = "";
+			modalBodyText = "Both the credit card number and security code are required.";
+			display = true;
+			await Task.Delay(100);
+			show = true;
+			return;
+		}
+		if (!ValidateCreditCardNumber())
+		{
+			modalButtonText = "Use this Card Number";
+			modalBodyText = "The credit card number " + cardNumber + " could not be verified. Are you sure you want to use it?";
+			display = true;
+			await Task.Delay(100);
+			show = true;
+			return;
+		}
+		heading = "Invoice Paid. Thank you.";
+	}
+
+	void Blur()
+	{
+		cardNumber = Regex.Replace(cardNumber.Trim(), "[^0-9 ]", "");
+		ccid = (cardNumber.Length == 0) ? 0 : (cardNumber[0] - '0');
+	}
+
+	async Task Close()
+	{
+		show = false;
+		await Task.Delay(500);
+		display = false;
+	}
+
+	async Task Confirm()
+	{
+		heading = "Processing payment... Thank you.";
+		await Close();
+	}
+}

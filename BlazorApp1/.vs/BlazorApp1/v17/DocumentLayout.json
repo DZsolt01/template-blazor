@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Home.razor",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Home.razor",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:11:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.razor",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Account.razor",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Account.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:05:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp1\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:05:30.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp1\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:05:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:03:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalStorage.cs",
+              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\LocalStorage.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\LocalStorage.cs",
+              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\LocalStorage.cs",
+              "RelativeToolTip": "BlazorApp1\\LocalStorage.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwFUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:02:49.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
