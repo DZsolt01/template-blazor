@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
-        "packagesPath": "C:\\Users\\szabo\\.nuget\\packages\\",
-        "outputPath": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\obj\\",
+        "projectPath": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "packagesPath": "C:\\Users\\Adek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\szabo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,13 +62,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.2, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.2, )",
               "autoReferenced": true
             }
           },
@@ -86,7 +86,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.4, 8.0.4]"
+              "version": "[8.0.2, 8.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

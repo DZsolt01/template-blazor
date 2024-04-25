@@ -13,43 +13,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorApp1
 build_property.RootNamespace = BlazorApp1
-build_property.ProjectDir = D:\Anyagok\Sapientia\II felev\.Net\Lab 13 - ASP.NET MVC, Recepes web page\Szemetes\BlazorApp1\BlazorApp1\
+build_property.ProjectDir = C:\Users\Adek\Documents\swc-clitest\template-blazor\BlazorApp1\BlazorApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Anyagok\Sapientia\II felev\.Net\Lab 13 - ASP.NET MVC, Recepes web page\Szemetes\BlazorApp1\BlazorApp1
+build_property.MSBuildProjectDirectory = C:\Users\Adek\Documents\swc-clitest\template-blazor\BlazorApp1\BlazorApp1
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/App.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Pages/Account.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Pages/Account.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Pages/Counter.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Pages/Home.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Pages/Weather.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/_Imports.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Layout/MainLayout.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5383j6hyu8
 
-[D:/Anyagok/Sapientia/II felev/.Net/Lab 13 - ASP.NET MVC\, Recepes web page/Szemetes/BlazorApp1/BlazorApp1/Layout/NavMenu.razor]
+[C:/Users/Adek/Documents/swc-clitest/template-blazor/BlazorApp1/BlazorApp1/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-da4la3n260

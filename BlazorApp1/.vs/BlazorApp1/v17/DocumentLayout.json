@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|d:\\anyagok\\sapientia\\ii felev\\.net\\lab 13 - asp.net mvc, recepes web page\\szemetes\\blazorapp1\\blazorapp1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\adek\\documents\\swc-clitest\\template-blazor\\blazorapp1\\blazorapp1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E4575D7-1E59-4170-9AC3-68307B458CF4}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,41 +38,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Home.razor",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorApp1\\Pages\\Home.razor",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAcAAABRAAAA",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp1\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T09:11:12.608Z",
+              "WhenOpened": "2024-04-25T16:17:09.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\App.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\App.razor",
+              "RelativeToolTip": "BlazorApp1\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:16:54.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Home.razor",
+              "ViewState": "AQIAAGAAAAAAAAAAAIBJwAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:11:12.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Account.razor",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Account.razor",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Pages\\Account.razor",
               "RelativeToolTip": "BlazorApp1\\Pages\\Account.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAABAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-25T09:05:57.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorApp1\\Layout\\NavMenu.razor",
               "ViewState": "AQIAACcAAAAAAAAAAAAowDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -78,38 +107,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BlazorApp1\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAABUAAAARAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAswHcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-25T09:05:08.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Program.cs",
               "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\Program.cs",
               "RelativeToolTip": "BlazorApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T09:03:56.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalStorage.cs",
-              "DocumentMoniker": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\LocalStorage.cs",
-              "RelativeDocumentMoniker": "BlazorApp1\\LocalStorage.cs",
-              "ToolTip": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\LocalStorage.cs",
-              "RelativeToolTip": "BlazorApp1\\LocalStorage.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAiwFUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T09:02:49.07Z"
+              "WhenOpened": "2024-04-25T09:03:56.863Z",
+              "EditorCaption": ""
             }
           ]
         }

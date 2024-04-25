@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\compressed\\xmnll4w6si.gz",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\compressed\\75i9pmebd3.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
       "PackagePath": "staticwebassets\\BlazorApp1.styles.css"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\amex.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\amex.png",
       "PackagePath": "staticwebassets\\img\\amex.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\blank.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\blank.png",
       "PackagePath": "staticwebassets\\img\\blank.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\discover.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\discover.png",
       "PackagePath": "staticwebassets\\img\\discover.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\mastercard.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\mastercard.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\visa.png",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\img\\visa.png",
       "PackagePath": "staticwebassets\\img\\visa.png"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Anyagok\\Sapientia\\II felev\\.Net\\Lab 13 - ASP.NET MVC, Recepes web page\\Szemetes\\BlazorApp1\\BlazorApp1\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\Adek\\Documents\\swc-clitest\\template-blazor\\BlazorApp1\\BlazorApp1\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
